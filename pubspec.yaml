@@ -1,0 +1,17 @@
+name: moe_kyaw_aung_portfolio
+description: Premium cyber neon portfolio for Moe Kyaw Aung
+publish_to: 'none'
+version: 1.0.0+2
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  url_launcher: ^6.3.0
+  font_awesome_flutter: ^10.8.0
+
+flutter:
+  uses-material-design: true

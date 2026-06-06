@@ -1,0 +1,24 @@
+lib/
+  main.dart
+  app_theme.dart
+  app_data.dart
+  widgets/
+    cyber_background.dart
+    section_shell.dart
+    animated_typing_text.dart
+    animated_counter.dart
+    reveal_on_scroll.dart
+    neon_button.dart
+    neon_card.dart
+    cyber_clipper.dart
+    app_drawer.dart
+  sections/
+    navbar_section.dart
+    hero_section.dart
+    about_section.dart
+    skills_section.dart
+    services_section.dart
+    projects_section.dart
+    apps_section.dart
+    contact_section.dart
+    footer_section.dart
